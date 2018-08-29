@@ -722,4 +722,8 @@
         <item name="android:paddingRight">@dimen/margin_extra_medium_large</item>
     </style>
 
+    <style name="LinearProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/blue_wordpress</item>
+    </style>
+
 </resources>
